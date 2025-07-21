@@ -12,16 +12,6 @@
 
 ---
 
-### 📖 Education
-
-| Degree                      | Institution                                | Year      | Score    |
-|-----------------------------|--------------------------------------------|-----------|----------|
-| B.Tech, CSE                 | KIIT University, Bhubaneswar               | 2022–2026 | 7.73 CGPA|
-| Senior Secondary (XII)      | Guru Gobind Singh Public School, Bokaro    | 2022      | 73.5%    |
-| High School (X)             | M.N. Jha DAV Public School, Jhanjharpur    | 2020      | 74.5%    |
-
----
-
 ### 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -43,13 +33,13 @@
 *May 2025 – Jul. 2025*
 - Developed an AI-driven investment recommendation platform using Python, Streamlit, Azure OpenAI.
 - Built interactive dashboards with a custom CSS interface and integrated chatbot for client engagement.
-- Implemented secure authentication, live data filtering, and advanced search features supporting data-driven decision making.
+- Implemented secure authentication, live data filtering, and advanced search features supporting data-driven decision making[1].
 
 #### NULLCLASS | Data Analyst Intern  
 *Dec. 2024 – Jan. 2025*
 - Used NLP to classify sentiments in Google Play Store app reviews (positive, negative, neutral).
 - Built and deployed a machine learning model for review sentiment prediction.
-- Uncovered actionable user feedback for product improvement.
+- Uncovered actionable user feedback for product improvement[1].
 
 ---
 
@@ -58,12 +48,12 @@
 #### 📌 [AI Traffic Racer](https://github.com/rounakm535/Traffic-Racer-AIl)
 - Built a Pygame-based racing simulator supporting both AI and human control.
 - Engineered real-time object tracking and lane safety logic for adaptive gameplay.
-- Optimized asset integration and team collaboration to enhance feature depth.
+- Optimized asset integration and team collaboration to enhance feature depth[1].
 
 #### 📌 [Automated Data Entry Software](https://github.com/rounakm535/Minor-Projects/tree/main/DataAutomation)
 - Automated web data extraction using Beautiful Soup and Selenium.
 - Designed seamless pipelines to fill Google Forms and produce structured CSV datasets.
-- Built Flask REST APIs for real-time model inference across concurrent users.
+- Built Flask REST APIs for real-time model inference across concurrent users[1].
 
 ---
 
@@ -73,7 +63,7 @@
 - **Frameworks/Libraries:** Flask, Pandas, Numpy, Beautiful Soup, Selenium
 - **Developer Tools:** Git, GitHub, VS Code, PyCharm
 - **Databases:** MySQL
-- **Soft Skills:** Diligent, Analytical, Communication, Problem-solving, Leadership, Reliability
+- **Soft Skills:** Diligent, Analytical, Communication, Problem-solving, Leadership, Reliability[1]
 
 ---
 
