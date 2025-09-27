@@ -48,12 +48,12 @@
 #### 📌 [AI Traffic Racer](https://github.com/rounakm535/Traffic-Racer-AIl)
 - Built a Pygame-based racing simulator supporting both AI and human control.
 - Engineered real-time object tracking and lane safety logic for adaptive gameplay.
-- Optimized asset integration and team collaboration to enhance feature depth[1].
+- Optimized asset integration and team collaboration to enhance feature depth.
 
 #### 📌 [Automated Data Entry Software](https://github.com/rounakm535/Minor-Projects/tree/main/DataAutomation)
 - Automated web data extraction using Beautiful Soup and Selenium.
 - Designed seamless pipelines to fill Google Forms and produce structured CSV datasets.
-- Built Flask REST APIs for real-time model inference across concurrent users[1].
+- Built Flask REST APIs for real-time model inference across concurrent users.
 
 ---
 
@@ -63,7 +63,7 @@
 - **Frameworks/Libraries:** Flask, Pandas, Numpy, Beautiful Soup, Selenium
 - **Developer Tools:** Git, GitHub, VS Code, PyCharm
 - **Databases:** MySQL
-- **Soft Skills:** Diligent, Analytical, Communication, Problem-solving, Leadership, Reliability[1]
+- **Soft Skills:** Diligent, Analytical, Communication, Problem-solving, Leadership, Reliability
 
 ---
 
