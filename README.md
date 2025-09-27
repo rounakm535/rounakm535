@@ -33,13 +33,13 @@
 *May 2025 – Jul. 2025*
 - Developed an AI-driven investment recommendation platform using Python, Streamlit, Azure OpenAI.
 - Built interactive dashboards with a custom CSS interface and integrated chatbot for client engagement.
-- Implemented secure authentication, live data filtering, and advanced search features supporting data-driven decision making[1].
+- Implemented secure authentication, live data filtering, and advanced search features supporting data-driven decision making.
 
 #### NULLCLASS | Data Analyst Intern  
 *Dec. 2024 – Jan. 2025*
 - Used NLP to classify sentiments in Google Play Store app reviews (positive, negative, neutral).
 - Built and deployed a machine learning model for review sentiment prediction.
-- Uncovered actionable user feedback for product improvement[1].
+- Uncovered actionable user feedback for product improvement.
 
 ---
 
