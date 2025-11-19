@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rounak Mishra</h1>
-<h3 align="center">CSE Undergraduate | Python & Automation Enthusiast | Problem Solver</h3>
+<h3 align="center">Aspiring Computer Science Engineer | Skilled in Python & AI Development | Experienced in Automation and Financial AI Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rounakm535&label=Profile%20views&color=0e75b6&style=flat" alt="rounakm535" />
