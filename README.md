@@ -8,7 +8,7 @@
 ---
 
 🎓 *B.Tech, Computer Science & Engineering (KIIT University, 2022–2026)*  
-⭐ *CGPA*: 7.73 (up to most recent semester)  
+⭐ *CGPA*: 7.88 (up to most recent semester)  
 
 ---
 
